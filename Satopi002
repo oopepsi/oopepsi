@@ -24,8 +24,8 @@ NODE_NAMES=[
   "GC4ISQUNMNISZUCYSJQ5KZKE7ZKFCUE6G53KR7F6J3W27EDKHSXT7R22 testnet5"
 ]
 
-KNOWN_PEERS=["testnet1.minepi.com:31402", "testnet2.minepi.com:31402", "testnet3.minepi.com:31402"]
-PREFERRED_PEERS=["testnet1.minepi.com:31402", "testnet2.minepi.com:31402", "testnet3.minepi.com:31402"]
+KNOWN_PEERS=["testnet1.minepi.com:31402", "testnet2.minepi.com:31402", "testnet3.minepi.com:31402", "testnet4.minepi.com:31402", "testnet5.minepi.com:31402"]
+PREFERRED_PEERS=["testnet1.minepi.com:31402", "testnet2.minepi.com:31402", "testnet3.minepi.com:31402", "testnet4.minepi.com:31402", "testnet5.minepi.com:31402"]
 PREFERRED_PEER_KEYS=["$testnet1", "$testnet2", "$testnet3", "$testnet4", "$testnet5"]
 PREFERRED_PEERS_ONLY=false
 
